@@ -3,5 +3,4 @@ spring:
     name: service-gateway
   cloud:
     config:
-      enabled: true
       uri: http://192.168.18.11:8090
